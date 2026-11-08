@@ -83,6 +83,12 @@ Successfully completed the hands-on exercise by creating a workflow, configuring
 
 [View the completed exercise](https://github.com/Iman-Rashidi/skills-hello-github-actions) · [View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-hello-github-actions/issues/1#issuecomment-6637395050)
 
+**GitHub Skills – Introduction to Git**
+
+Successfully completed the hands-on exercise covering Git version control, repository initialization, commit history, change comparison, branching, merge strategies, and collaboration.
+
+[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/Introduction-to-Git-skills-introduction-to-git/issues/1#issuecomment-6727874081)
+
 **GitHub Skills – Resolve Merge Conflicts**
 
 Successfully completed the hands-on exercise by creating a pull request, resolving a conflict between the `main` and `my-resume` branches, and merging the pull request.
