@@ -83,6 +83,12 @@ Successfully completed the hands-on exercise by creating a workflow, configuring
 
 [View the completed exercise](https://github.com/Iman-Rashidi/skills-hello-github-actions) · [View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-hello-github-actions/issues/1#issuecomment-6637395050)
 
+**GitHub Skills – Resolve Merge Conflicts**
+
+Successfully completed the hands-on exercise by creating a pull request, resolving a conflict between the `main` and `my-resume` branches, and merging the pull request.
+
+[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-resolve-merge-conflicts/issues/1#issuecomment-6638857972)
+
 ## ✦ What I'm Working On
 
 - Building original frontend applications
