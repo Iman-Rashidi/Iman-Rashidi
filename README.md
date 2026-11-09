@@ -2,115 +2,84 @@
 
 <div align="center">
 
-### Frontend Developer · React · TypeScript · JavaScript
+# Iman Rashidi
 
-Frontend developer and open-source contributor building responsive web applications, developer tools, and practical projects. Focused on React, TypeScript, JavaScript, accessibility, clean code, and maintainable UI.
+### Frontend Developer · Open-Source Contributor
 
-Building practical, responsive web applications with a focus on clean code, accessibility, and maintainable design.
+React · TypeScript · JavaScript · Accessible UI · Developer Tools
 
-[![GitHub](https://img.shields.io/badge/GitHub-imanr236-24243f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-Rashidi)
-[![CodeVault](https://img.shields.io/badge/Featured_Project-CodeVault-8178ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeVault-Community/CodeVault)
-[![GitHub Skills: Hello GitHub Actions](https://img.shields.io/badge/GitHub%20Skills-Hello%20GitHub%20Actions-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Iman-Rashidi/skills-hello-github-actions)
+Building responsive web applications and contributing to practical developer tools. Interested in clean, maintainable code, automated testing, AI memory evaluation, and software supply-chain security.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Iman--Rashidi-24243f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-Rashidi)
+[![CodeVault](https://img.shields.io/badge/Community_Project-CodeVault-8178ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeVault-Community/CodeVault)
+[![Agent Memory Eval](https://img.shields.io/badge/Project-Agent--Memory--Eval-2563eb?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Iman-Rashidi/agent-memory-eval)
 
 </div>
 
 ---
 
-## ✦ Featured Project
+## Featured Projects
+
+### [agent-memory-eval](https://github.com/Iman-Rashidi/agent-memory-eval)
+
+A lightweight Python toolkit for evaluating ranked retrieval from AI agent memory systems.
+
+- Recall@k, Precision@k, reciprocal rank, and binary/graded NDCG
+- JSONL dataset validation and command-line evaluation
+- Deterministic metrics with unit tests and GitHub Actions CI
 
 ### [CodeVault](https://github.com/CodeVault-Community/CodeVault)
 
 A local-first code snippet manager built with React, TypeScript, and Vite.
 
-- Create, edit, search, filter, and organize reusable snippets
+- Create, search, filter, and organize reusable snippets
 - Import and export JSON backups
-- Bulk selection and deletion
-- Responsive interface with a refined dark theme
-- Automated tests and GitHub Actions deployment
+- Responsive interface, automated tests, and GitHub Actions deployment
 
-<p align="left">
-  <a href="https://CodeVault-Community.github.io/CodeVault/"><strong>↗ Explore the live demo</strong></a>
-</p>
-
-## ✦ Open-Source Contributions
-
-I enjoy contributing to open-source projects, improving documentation, and helping make developer tools easier to use.
-
-- **[Kunji](https://github.com/testwithsuraj/kunji)** – Working on verified model-pricing data and clearer cost information. [View my pull request](https://github.com/testwithsuraj/kunji/pull/64).
-- **[Releaseproof](https://github.com/ujjwalv01/releaseproof)** – Improving documentation for reproducing past checks with a pinned Docker image digest. [View the related issue](https://github.com/ujjwalv01/releaseproof/issues/123) · [View my implementation commit](https://github.com/Iman-Rashidi/releaseproof/commit/d05a585c7bf7f1ed7bcbbdee252ac2675b288245).
-
-I welcome constructive feedback, useful issues, and collaboration on practical developer tools.
-
-## ✦ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-24243f?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-24243f?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-24243f?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-24243f?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-24243f?style=flat-square&logo=css3)
-![Vite](https://img.shields.io/badge/Vite-24243f?style=flat-square&logo=vite)
-![Git](https://img.shields.io/badge/Git-24243f?style=flat-square&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24243f?style=flat-square&logo=githubactions)
-
-## ✦ Learning & Achievements
-
-**GitHub Skills – Introduction to GitHub**  
-Successfully completed the hands-on GitHub Skills exercise, covering:
-
-- Repository and branch management
-- Creating commits and pull requests
-- Reviewing and merging pull requests
-
-[View the official completion confirmation](https://github.com/Iman-Rashidi/skills-introduction-to-github-2/issues/1#issuecomment-6636053957)
-
-**GitHub Skills – Communicate using Markdown**  
-Successfully completed the exercise and practiced formatting clear, structured documentation with GitHub Flavored Markdown.
-
-[View the completed exercise](https://github.com/Iman-Rashidi/skills-communicate-using-markdown)
-
-**GitHub Skills – Review Pull Requests**  
-Successfully completed all stages of the hands-on exercise, including:
-
-- Opening a pull request and assigning it for review
-- Leaving a review and suggesting changes
-- Applying suggested changes and merging a pull request
-
-[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-review-pull-requests/issues/1#issuecomment-6637038152)
-
-**GitHub Skills – Hello GitHub Actions**
-
-Successfully completed the hands-on exercise by creating a workflow, configuring its event trigger, job, and steps, testing it with a pull request, and merging the workflow into the default branch.
-
-[View the completed exercise](https://github.com/Iman-Rashidi/skills-hello-github-actions) · [View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-hello-github-actions/issues/1#issuecomment-6637395050)
-
-**GitHub Skills – Introduction to Git**
-
-Successfully completed the hands-on exercise covering Git version control, repository initialization, commit history, change comparison, branching, merge strategies, and collaboration.
-
-[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/Introduction-to-Git-skills-introduction-to-git/issues/1#issuecomment-6727874081)
-
-**GitHub Skills – Resolve Merge Conflicts**
-
-Successfully completed the hands-on exercise by creating a pull request, resolving a conflict between the `main` and `my-resume` branches, and merging the pull request.
-
-[View Mona's official completion confirmation](https://github.com/Iman-Rashidi/skills-resolve-merge-conflicts/issues/1#issuecomment-6638857972)
-
-## ✦ What I'm Working On
-
-- Building original frontend applications
-- Improving accessibility and responsive design
-- Writing automated tests
-- Learning software engineering best practices
-- Exploring meaningful open-source contributions
-
-## ✦ Collaboration
-
-I'm interested in learning from other developers, exchanging ideas, and contributing to well-documented open-source projects.
+[Explore the live demo](https://CodeVault-Community.github.io/CodeVault/)
 
 ---
 
-<div align="center">
+## Open-Source Contributions
+
+I contribute focused fixes, tests, and documentation. The status below distinguishes merged work from pull requests that are still under review.
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [Kunji](https://github.com/testwithsuraj/kunji) | [PR #83](https://github.com/testwithsuraj/kunji/pull/83): regression tests for daily-budget thresholds and edge cases | **Merged** |
+| [Kunji](https://github.com/testwithsuraj/kunji) | [PR #64](https://github.com/testwithsuraj/kunji/pull/64): verified Gemini and Groq model pricing | **Merged** |
+| [Releaseproof](https://github.com/ujjwalv01/releaseproof) | [PR #140](https://github.com/ujjwalv01/releaseproof/pull/140): documentation for reproducing checks with a pinned Docker image | **Merged** |
+| [CodeVault](https://github.com/CodeVault-Community/CodeVault) | [PR #1](https://github.com/CodeVault-Community/CodeVault/pull/1): contribution guidelines and issue/PR templates | **Merged** |
+| [Releaseproof](https://github.com/ujjwalv01/releaseproof) | [PR #169](https://github.com/ujjwalv01/releaseproof/pull/169): documentation for a Rekor-certified staged release check | **Open** |
+| [CodeVault](https://github.com/CodeVault-Community/CodeVault) | [PR #2](https://github.com/CodeVault-Community/CodeVault/pull/2): canonical repository links in the contribution guide | **Open** |
+
+---
+
+## Technologies & Interests
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite
+
+**Testing & tooling:** Git, GitHub Actions, Python testing, pytest, Ruff
+
+**Areas of interest:** Accessible interfaces, developer experience, AI agent memory evaluation, and software supply-chain security
+
+---
+
+## GitHub Skills
+
+Completed hands-on GitHub Skills exercises:
+
+- [Introduction to GitHub](https://github.com/Iman-Rashidi/skills-introduction-to-github-2)
+- [Communicate using Markdown](https://github.com/Iman-Rashidi/skills-communicate-using-markdown)
+- [Review Pull Requests](https://github.com/Iman-Rashidi/skills-review-pull-requests)
+- [Hello GitHub Actions](https://github.com/Iman-Rashidi/skills-hello-github-actions)
+- [Introduction to Git](https://github.com/Iman-Rashidi/Introduction-to-Git-skills-introduction-to-git)
+- [Resolve Merge Conflicts](https://github.com/Iman-Rashidi/skills-resolve-merge-conflicts)
+
+---
+
+## Collaboration
+
+I welcome constructive feedback, thoughtful code reviews, and collaboration on useful open-source projects.
 
 *Build thoughtfully. Learn continuously. Improve every day.*
-
-</div>
